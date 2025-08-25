@@ -1,4 +1,4 @@
-# 🏆 Digital Twin Time Trials (DTTT) 🏆
+# Digital Twin Time Trials (DTTT) 
 
 Digital Twin Time Trials (DTTT) is a revolutionary sport that fuses real-world exploration, advanced technology, and competitive teamwork. Teams of 3-5 players, along with an AI teammate, race to create high-quality digital twins of real-world locations in record time using drones, LiDAR sensors, VR, and AI.
 
